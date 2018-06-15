@@ -1,0 +1,1 @@
+@py.exe /home/codeblocks/codingsites.py %*

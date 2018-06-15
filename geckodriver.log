@@ -1,0 +1,187 @@
+1481707160574	geckodriver	INFO	Listening on 127.0.0.1:38607
+1481707160794	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MTFyVmaef0a7
+1481707160795	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481707160804	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38244
+1481707166151	Marionette	INFO	Listening on port 38244
+1481707973977	geckodriver	INFO	Listening on 127.0.0.1:40767
+1481707974995	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.51xvoXLH0O6e
+1481707974996	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481707975081	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33120
+1481707978702	Marionette	INFO	Listening on port 33120
+1481708232281	geckodriver	INFO	Listening on 127.0.0.1:51725
+1481708233299	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.whVF4XLs9mij
+1481708233300	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481708233394	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37797
+1481708238339	Marionette	INFO	Listening on port 37797
+1481708274084	geckodriver	INFO	Listening on 127.0.0.1:57326
+1481708275083	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HVFQbT4off2p
+1481708275085	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481708275117	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33283
+1481708276717	Marionette	INFO	Listening on port 33283
+1481708345417	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481720143484	geckodriver	INFO	Listening on 127.0.0.1:48085
+1481720144399	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FtywzqO6v0pS
+1481720144403	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481720144418	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39725
+1481720149215	Marionette	INFO	Listening on port 39725
+1481720218931	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481720244763	geckodriver	INFO	Listening on 127.0.0.1:54172
+1481720245764	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lNlolyi1Y8qC
+1481720245765	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481720245770	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36789
+1481720247889	Marionette	INFO	Listening on port 36789
+
+(firefox:9566): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9566): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9566): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9566): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9566): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9566): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9566): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://www.amazon.in/Mivi-Miltary-Anti-Scratch-Tempered-OnePlus/dp/B01LXOMWLZ/ref=sr_1_1/254-3585636-1232229?ie=UTF8&qid=1481720255&sr=8-1&keywords=one+plus+3+tempered+glass, line 309: NS_ERROR_UNEXPECTED: 
+1481720475019	geckodriver	INFO	Listening on 127.0.0.1:39814
+1481720476013	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AxuMior8jyXt
+1481720476014	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481720476019	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43422
+1481720477555	Marionette	INFO	Listening on port 43422
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1481720543546	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481720558051	geckodriver	INFO	Listening on 127.0.0.1:52873
+1481720559053	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yKI2oTOBzR05
+1481720559055	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481720559060	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39383
+1481720559953	Marionette	INFO	Listening on port 39383
+
+(firefox:9916): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9916): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9916): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9916): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9916): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9916): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9916): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1551"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1551:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:508:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1551, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1551"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1551:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:508:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1551, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1551"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1551:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:691:7
+Line: 1551, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1551"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1551:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:691:7
+Line: 1551, column: 0
+1481720615281	geckodriver	INFO	Listening on 127.0.0.1:40591
+1481720616346	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WFVoMSAYsd32
+1481720616348	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481720616361	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36349
+1481720618476	Marionette	INFO	Listening on port 36349
+
+(firefox:10081): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10081): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10081): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10081): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10081): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10081): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10081): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481720673575	geckodriver	INFO	Listening on 127.0.0.1:41334
+1481720674569	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TG0HCMjp5Kcp
+1481720674570	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481720674575	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34460
+1481720675500	Marionette	INFO	Listening on port 34460
+1481720685097	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+(firefox:10218): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10218): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10218): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10218): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10218): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10218): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10218): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481720740420	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481720898556	geckodriver	INFO	Listening on 127.0.0.1:35736
+1481720899562	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZiFm9Sifsu26
+1481720899563	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481720899570	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42024
+1481720901075	Marionette	INFO	Listening on port 42024
+
+(firefox:10471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481720969961	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 10536] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 10536] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10536] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1481721082907	geckodriver	INFO	Listening on 127.0.0.1:45952
+1481721083905	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HLEm2FpaGwvE
+1481721083907	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481721083911	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34609
+1481721084771	Marionette	INFO	Listening on port 34609
+
+(firefox:10649): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10649): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10649): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10649): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10649): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10649): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10649): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://www.amazon.in/Mivi-Miltary-Anti-Scratch-Tempered-OnePlus/dp/B01LXOMWLZ/ref=sr_1_1/253-7075641-8622235?ie=UTF8&qid=1481721089&sr=8-1&keywords=one+plus+3+tempered+glass, line 307: NS_ERROR_UNEXPECTED: 
